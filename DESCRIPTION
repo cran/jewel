@@ -1,6 +1,6 @@
 Package: jewel
 Title: Graphical Models Estimation from Multiple Sources
-Version: 2.0.0
+Version: 2.0.1
 Authors@R: c(
     person("Anna", "Plaksienko", 
     email = "anna@plaxienko.com", 
@@ -22,10 +22,10 @@ RoxygenNote: 7.2.3
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-05-11 19:10:54 UTC; annapla
+Packaged: 2023-06-13 12:43:27 UTC; annapla
 Author: Anna Plaksienko [aut, cre] (<https://orcid.org/0000-0001-9607-057X>),
   Claudia Angelini [aut] (<https://orcid.org/0000-0001-8350-8464>),
   Daniela De Canditiis [aut] (<https://orcid.org/0000-0002-3022-3411>)
 Maintainer: Anna Plaksienko <anna@plaxienko.com>
 Repository: CRAN
-Date/Publication: 2023-05-12 14:30:08 UTC
+Date/Publication: 2023-06-13 13:00:02 UTC
